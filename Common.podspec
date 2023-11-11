@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.name = "Common"
   s.summary = "Common.framework for modularization chapter"
   s.requires_arc = true
-  s.version = "1.0.0"
+  s.version = "1.0.1"
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "Kevin Hardianto" => "hardiantokevin00@gmail.com" }
   s.homepage = "https://github.com/kevinhardianto6/Common"
